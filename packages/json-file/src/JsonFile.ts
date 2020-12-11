@@ -1,5 +1,5 @@
 import { codeFrameColumns } from '@babel/code-frame';
-import { mkdirp, readFile, readFileSync } from 'fs-extra';
+import fs from 'fs';
 import JSON5 from 'json5';
 import get from 'lodash/get';
 import set from 'lodash/set';
@@ -133,7 +133,7 @@ function read<TJSONObject extends JSONObject>(
 ): TJSONObject {
   let json;
   try {
-    json = readFileSync(file, 'utf8');
+    json = fs.readFileSync(file, 'utf8');
   } catch (error) {
     assertEmptyJsonString(json, file);
     const defaultValue = cantReadFileDefault(options);
@@ -152,7 +152,7 @@ async function readAsync<TJSONObject extends JSONObject>(
 ): Promise<TJSONObject> {
   let json;
   try {
-    json = await readFile(file, 'utf8');
+    json = await fs.promises.readFile(file, 'utf8');
   } catch (error) {
     assertEmptyJsonString(json, file);
     const defaultValue = cantReadFileDefault(options);
@@ -212,7 +212,7 @@ async function writeAsync<TJSONObject extends JSONObject>(
   options?: Options<TJSONObject>
 ): Promise<TJSONObject> {
   if (options?.ensureDir) {
-    await mkdirp(path.dirname(file));
+    await fs.promises.mkdir(path.dirname(file), { recursive: true });
   }
   const space = _getOption(options, 'space');
   const json5 = _getOption(options, 'json5');
