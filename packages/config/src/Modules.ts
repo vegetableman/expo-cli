@@ -1,4 +1,4 @@
-import { stat, Stats, statSync } from 'fs-extra';
+import fs from 'fs';
 import { join, resolve } from 'path';
 import resolveFrom from 'resolve-from';
 
@@ -40,9 +40,9 @@ export function moduleNameFromPath(modulePath: string): string {
  *
  * @param file
  */
-async function statAsync(file: string): Promise<Stats | null> {
+async function statAsync(file: string): Promise<fs.Stats | null> {
   try {
-    return await stat(file);
+    return await fs.promises.stat(file);
   } catch {
     return null;
   }
@@ -58,8 +58,8 @@ export async function directoryExistsAsync(file: string): Promise<boolean> {
 
 export function fileExists(file: string): boolean {
   try {
-    return statSync(file).isFile();
-  } catch (e) {
+    return fs.statSync(file).isFile();
+  } catch {
     return false;
   }
 }

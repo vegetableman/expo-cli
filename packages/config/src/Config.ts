@@ -1,5 +1,5 @@
 import JsonFile, { JSONObject } from '@expo/json-file';
-import fs from 'fs-extra';
+import fs from 'fs';
 import { sync as globSync } from 'glob';
 import path from 'path';
 import semver from 'semver';
