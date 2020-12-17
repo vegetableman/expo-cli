@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":";;AAAA,iCAMiB;AALf,6BAAA,UAAU,CAAA","sourcesContent":["export {\n  sharpAsync,\n  SharpGlobalOptions,\n  SharpCommandOptions,\n  ResizeMode,\n  ImageFormat,\n} from './sharp';\n"]}

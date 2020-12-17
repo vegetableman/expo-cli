@@ -32,7 +32,7 @@
   "homepage": "https://github.com/expo/expo-cli/tree/master/packages/xdl#readme",
   "dependencies": {
     "@expo/bunyan": "3.0.2",
-    "@expo/config": "^2.0.2",
+    "@expo/config": "2.0.2",
     "@expo/json-file": "8.1.4",
     "@expo/ngrok": "2.4.3",
     "@expo/osascript": "2.0.0",

@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@expo/bunyan": "3.0.2",
-    "@expo/config": "^2.0.2",
+    "@expo/config": "2.0.2",
     "@expo/dev-tools": "^0.5.26",
     "@expo/json-file": "^8.1.4",
     "@expo/simple-spinner": "1.0.2",

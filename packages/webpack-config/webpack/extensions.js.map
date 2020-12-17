@@ -1,0 +1,1 @@
+{"version":3,"file":"extensions.js","sourceRoot":"","sources":["../src/extensions.ts"],"names":[],"mappings":";;AAAA,mDAA6D;AAApD,0CAAA,OAAO,CAAkB;AAClC,6CAAuD;AAA9C,oCAAA,OAAO,CAAe","sourcesContent":["export { default as withUnimodules } from './withUnimodules';\nexport { default as withWorkbox } from './withWorkbox';\n"]}

@@ -1,0 +1,2803 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts": {
+        "version": "9857e36c11c193f684418ffba3a66f6af18ead380f176617ebe236ab239c68fb",
+        "signature": "9857e36c11c193f684418ffba3a66f6af18ead380f176617ebe236ab239c68fb"
+      },
+      "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts": {
+        "version": "744a3ad5380e6394ab5cbc7543ddf7a18bac1a3ff96fc8dc77f527e8e4d740e7",
+        "signature": "744a3ad5380e6394ab5cbc7543ddf7a18bac1a3ff96fc8dc77f527e8e4d740e7"
+      },
+      "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts": {
+        "version": "1cb860379c31961d6bd6d202e6c6b3d3027ec0af4727dcc400bbb216dd4ca3b6",
+        "signature": "1cb860379c31961d6bd6d202e6c6b3d3027ec0af4727dcc400bbb216dd4ca3b6"
+      },
+      "/users/viven/projects/expo-cli/packages/config/build/config.d.ts": {
+        "version": "2fda7f6062f7bba684bda6791949daec43740f00a1edf1ad67fa97a68b76f199",
+        "signature": "2fda7f6062f7bba684bda6791949daec43740f00a1edf1ad67fa97a68b76f199"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts": {
+        "version": "91b3e90f97f407a3b4a603da240c46224d42f2b4ba7de8dc2931ab7f2e2835e8",
+        "signature": "91b3e90f97f407a3b4a603da240c46224d42f2b4ba7de8dc2931ab7f2e2835e8"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts": {
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
+        "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts": {
+        "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
+        "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/events/index.d.ts": {
+        "version": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935",
+        "signature": "400db42c3a46984118bff14260d60cec580057dc1ab4c2d7310beb643e4f5935"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts": {
+        "version": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00",
+        "signature": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts": {
+        "version": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598",
+        "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts": {
+        "version": "b64b53a0a1959c0081b1f0ddf874eb7b09b5a7e2be2376fe0b275fc8646424b1",
+        "signature": "b64b53a0a1959c0081b1f0ddf874eb7b09b5a7e2be2376fe0b275fc8646424b1"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts": {
+        "version": "beedf72ae8a4176d262e464b70544021a8cd765e21f58325eae5d132a3eb359d",
+        "signature": "beedf72ae8a4176d262e464b70544021a8cd765e21f58325eae5d132a3eb359d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts": {
+        "version": "92bd533d635f967b198fde9bc789996370f0db3322306646d961f64e67ed5b7a",
+        "signature": "92bd533d635f967b198fde9bc789996370f0db3322306646d961f64e67ed5b7a"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts": {
+        "version": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb",
+        "signature": "cff7f1ff41519a28adfedb85b9d91325e13d7993bebcfd0dd9ce30c3ed1240bb"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts": {
+        "version": "dbe39c84ad40acd4b4259bc035aa5870ab08bcab899d2f7089c7922a434cf02d",
+        "signature": "dbe39c84ad40acd4b4259bc035aa5870ab08bcab899d2f7089c7922a434cf02d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts": {
+        "version": "61af0c7f7be9887d42de91222b0d758fa9912027c2dbda957b749bcd43427b54",
+        "signature": "61af0c7f7be9887d42de91222b0d758fa9912027c2dbda957b749bcd43427b54"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts": {
+        "version": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07",
+        "signature": "28fdca6c7a3d5dd62c738461051ef345b50d167efab39dceb2fcc9a079db1b07"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts": {
+        "version": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e",
+        "signature": "7f71142177d3c98370b31751e3d320c9743ed28eee215acb88d8e0d2a31e321e"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts": {
+        "version": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50",
+        "signature": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts": {
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts": {
+        "version": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3",
+        "signature": "b610b39b7d42b8e8359875ce77c3149d657bbaa6c9058beb655af805efb581b3"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts": {
+        "version": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c",
+        "signature": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts": {
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts": {
+        "version": "8eb33193516c1805512396183374f3cfe7e0b1b87ec31f210259ea8d9cc13d44",
+        "signature": "8eb33193516c1805512396183374f3cfe7e0b1b87ec31f210259ea8d9cc13d44"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
+        "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts": {
+        "version": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083",
+        "signature": "8fd6756e8a6fac64089e19e4fbe822bcfafa62f79b237172288eaa1379e84083"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts": {
+        "version": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4",
+        "signature": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts": {
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts": {
+        "version": "45dd52f3123d2189b981f92410c9d5d0ba1b4c257f2f98fdf983c48ec3132ab8",
+        "signature": "45dd52f3123d2189b981f92410c9d5d0ba1b4c257f2f98fdf983c48ec3132ab8"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts": {
+        "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
+        "signature": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts": {
+        "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
+        "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402",
+        "signature": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts": {
+        "version": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9",
+        "signature": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
+        "signature": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
+        "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts": {
+        "version": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46",
+        "signature": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46"
+      },
+      "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts": {
+        "version": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579",
+        "signature": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts": {
+        "version": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba",
+        "signature": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts": {
+        "version": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76",
+        "signature": "48b52264fa193879a074197839dbb4796fa07e86350ff888e5361e06aa46df76"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts": {
+        "version": "c5535ef842832704946a3273ea8f9e231fec015fea2b3c673333ba7559d31824",
+        "signature": "c5535ef842832704946a3273ea8f9e231fec015fea2b3c673333ba7559d31824"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts": {
+        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
+        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts": {
+        "version": "c9a990a038fb5443f91fd54d6d68408a88f969c9ca1edfcfa6374bbcd7bbf888",
+        "signature": "c9a990a038fb5443f91fd54d6d68408a88f969c9ca1edfcfa6374bbcd7bbf888"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts": {
+        "version": "729060281bd1d19607565003de53accc7f3ab76171fb7788f7f584750fd9ab78",
+        "signature": "729060281bd1d19607565003de53accc7f3ab76171fb7788f7f584750fd9ab78"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
+        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts": {
+        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
+        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts": {
+        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
+        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts": {
+        "version": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7",
+        "signature": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts": {
+        "version": "c026f1136b9a0f770b03bc00ce1c174bdfddb662d910df35cecda4dc276f8ffa",
+        "signature": "c026f1136b9a0f770b03bc00ce1c174bdfddb662d910df35cecda4dc276f8ffa"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts": {
+        "version": "dfcb132f0664449d94c807ca204a637a3e3ee996c3531af0db024bdce2e7830c",
+        "signature": "dfcb132f0664449d94c807ca204a637a3e3ee996c3531af0db024bdce2e7830c"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts": {
+        "version": "8947c0b80d364ee4f0d2cf4baec3d67ed211e52d2855dcc70b30ccb128dbc99a",
+        "signature": "9f5164fd984650cb0576b9eea36488bf6609e5148470aae5eaecf1b6f69ae6a0"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createclientenvironment.ts": {
+        "version": "6f7f5046369fc05c4714f758fa91af799fcb2ae78f02d77da11699cd78f7be4d",
+        "signature": "880fa53cabeb9d602bfe17459cb1e88921d0f2fc1203a4d5ee5edb61c39e5e3c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/erroroverlaymiddleware.d.ts": {
+        "version": "e294ebad8d4eff70266da89b3828e3a68c8d3358e96890ab3b0370fc08c8b800",
+        "signature": "e294ebad8d4eff70266da89b3828e3a68c8d3358e96890ab3b0370fc08c8b800"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/noopserviceworkermiddleware.d.ts": {
+        "version": "f7f6e11f29f137f4e333e45e7f213f8d1315cd8fbadd45f85b242969b45d1a53",
+        "signature": "f7f6e11f29f137f4e333e45e7f213f8d1315cd8fbadd45f85b242969b45d1a53"
+      },
+      "/users/viven/projects/expo-cli/node_modules/find-yarn-workspace-root/index.d.ts": {
+        "version": "43cad408a8403581628d3d56979b23dc0a5205ada87de60b141b085edc5bef8e",
+        "signature": "43cad408a8403581628d3d56979b23dc0a5205ada87de60b141b085edc5bef8e"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts": {
+        "version": "ab1f95fac76cf04ca3c9bee18a3b2e28275ff6fdcc995eb8ca7dc0d031712189",
+        "signature": "22cad22a9b4ca1b6267ca08060365ea9ab3bde7c9264f4cac9f51529b3b9f33a"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts": {
+        "version": "090f40c1743e611cabb9bcb24833617f951947b802ea0d19a582d7874d57140a",
+        "signature": "4967fb8c73bf8e209b9d0acd7fff68ae34c6826215e490b4b0dc2fe3a343cae5"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createdevserverconfigasync.ts": {
+        "version": "88ffde73cf87a5467b1d198aeb848f9167745eea450fea00b17b314dcf45e6e7",
+        "signature": "64307a551f80a5f53f94fd4bacb886aa5b21902abc910dceaf09e5715fa1d996"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-merge/index.d.ts": {
+        "version": "778d55f9dba67a74e9eae4ba73adeac53ce210f0ed9f351bf6e8770cc7dc867e",
+        "signature": "778d55f9dba67a74e9eae4ba73adeac53ce210f0ed9f351bf6e8770cc7dc867e"
+      },
+      "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts": {
+        "version": "091f417275a51ab3c47b949723e9e8a193012157ecc64a96e2d7b1505e82f395",
+        "signature": "091f417275a51ab3c47b949723e9e8a193012157ecc64a96e2d7b1505e82f395"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/deep-diff/index.d.ts": {
+        "version": "fb6d2d4e6b93cd3b310ba286b1044d25e2c3f665f9eaac780bc41208d6e73616",
+        "signature": "fb6d2d4e6b93cd3b310ba286b1044d25e2c3f665f9eaac780bc41208d6e73616"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts": {
+        "version": "0ea50be28e84a6184b859e64e68a0b407fc3601de13ac3b482da3678efbb51c1",
+        "signature": "37c19064126796ffddc2553f993d5fa86d789bcfdbd983ed53acc36ad5400036"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/yup/index.d.ts": {
+        "version": "d5f4b9f244d169b8896abcfa7262c1494223099d48ed5a59f4461d796506cc7d",
+        "signature": "d5f4b9f244d169b8896abcfa7262c1494223099d48ed5a59f4461d796506cc7d"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts": {
+        "version": "95ee8a88c6d477615dcdc9e0cfe94023325bda37677182712f0862789fed8a5f",
+        "signature": "e3eb4f198d7f1636bbae9b2df65ed42cf693fd26ba36e8acddea639aa9533fda"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts": {
+        "version": "2687ed589bf4b19c28bfc5031b034afeaba04c17364b435d1fd19ff75b2f9164",
+        "signature": "8215e72a584c600be9e3e4c801660aff72fff7f803e08c550be05a9370a6c5eb"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts": {
+        "version": "a6adadc20ea391740938e24e3ab85bf55b1a4efc6387f1e4bbe820ad03b95d8a",
+        "signature": "cb678bb0513dc91c95b21eba7b97e2fa927c2796d4a0a4b1ab4596686c08edc1"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts": {
+        "version": "6f731df8d7481172574923f15e28efb8c491aa1ea389ab4073b017501d886049",
+        "signature": "6e6f7b8fcd4222d9ad94cc517d6494e1459b4584673fcdee26078c2750f3b906"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts": {
+        "version": "1830ab9bb93940dc8bb1d18348ab8d2c53392e920ff3311c75c3b0a79f04812f",
+        "signature": "1830ab9bb93940dc8bb1d18348ab8d2c53392e920ff3311c75c3b0a79f04812f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts": {
+        "version": "18609e55de22295d8a888d6409fe658d6baa89c5d4fe073651dbdc599519c915",
+        "signature": "18609e55de22295d8a888d6409fe658d6baa89c5d4fe073651dbdc599519c915"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
+        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
+        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5",
+        "signature": "30b805fe6d4272d147fea35fd859bc5f3e13b7c9d762bd35948fe842919452a5"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/index.d.ts": {
+        "version": "80e6d098a9998f0523ef6fc423449017dab64c61610c770563617d59bf2902ed",
+        "signature": "80e6d098a9998f0523ef6fc423449017dab64c61610c770563617d59bf2902ed"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts": {
+        "version": "f7804493b0b780253c7d480d3063f8f1b3e02f5d54a505458c467f357eed09eb",
+        "signature": "4dcf30e99f7d13490bcfad8e76149b566354595176490709eb745604704df762"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts": {
+        "version": "4a10050e1f13d325da21b9f7535950a9a1e0efae9023ad6f6569843cf2fd2c2e",
+        "signature": "6fac05bb2bf58dc28d3e13ded60c8f62591686d4469fc7d22e91c58b258de197"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts": {
+        "version": "dd83dd7dd52926f711c5ecf74ba83dbd8a2fd038d2659ce1aa336160fd59e29d",
+        "signature": "a1f504625d96ec04b4e1ecd343dca4fdc910b6848efd800fc2274710cdffe8a2"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/progress/index.d.ts": {
+        "version": "cbb21f1320a64785fe24657e8c268e18836dc31abfff96feea912e65d5c37d52",
+        "signature": "cbb21f1320a64785fe24657e8c268e18836dc31abfff96feea912e65d5c37d52"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts": {
+        "version": "76c9581999ef29899aab5d441fc31552320d843abe980caa7d6d685fe1bba614",
+        "signature": "318ba1fbdbbd4d9158a2df769b40d598090fc89aa1e7e4bb69e8964a2386864c"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts": {
+        "version": "4bfa64d72f076287ee5c40a3a91aa1ac2dc0b480cacc0f4fabdb3a2002d1ef67",
+        "signature": "4bfa64d72f076287ee5c40a3a91aa1ac2dc0b480cacc0f4fabdb3a2002d1ef67"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts": {
+        "version": "a523644fe1d30f36465118be107642c78c36afe0d885f93eae399b3c44dc8fe9",
+        "signature": "a523644fe1d30f36465118be107642c78c36afe0d885f93eae399b3c44dc8fe9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts": {
+        "version": "3f6bff86e78e065dad71ca8e395824703f56977f7309139127e58718d7915410",
+        "signature": "3f6bff86e78e065dad71ca8e395824703f56977f7309139127e58718d7915410"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts": {
+        "version": "1ce6f46cd8075f69c7f3cc84813bbbe5b56900f6264409637d3fcb58a4086e8d",
+        "signature": "1ce6f46cd8075f69c7f3cc84813bbbe5b56900f6264409637d3fcb58a4086e8d"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/extensions.ts": {
+        "version": "4d644dc3555426e5e0ed5926de74e6c10512f5fc915223ded3f1d23dcf860f87",
+        "signature": "8745fb07367a56244c4725c882eb55db69a6143c7c047b9a56e736a3adeb916b"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/normalizepaths.ts": {
+        "version": "6c78614642ec71dff5ccecf3e529c15fede83846ca572b0fc07e980352536d7f",
+        "signature": "a96397730b89a1f4bf11783676660de52718cb42929442604e51d4ede64e4b0c"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts": {
+        "version": "05da4b9d15e1fa92847061b989fc21cb7636d009400b28d713ce891c4b742aa0",
+        "signature": "05da4b9d15e1fa92847061b989fc21cb7636d009400b28d713ce891c4b742aa0"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts": {
+        "version": "832c2036440a15b0a0421a4b81e6f5eb68f0dbf29e760c8d6935c7b0953c7964",
+        "signature": "80d2fa1210a04e633d1e2c56516f389ce91f0acd302f250f5d64d62a9285df2f"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts": {
+        "version": "8758e78e1ad5ec6409d2b4a3a590990ba2b23ee4a71593664eb6a48b27455822",
+        "signature": "8758e78e1ad5ec6409d2b4a3a590990ba2b23ee4a71593664eb6a48b27455822"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.unimodules.ts": {
+        "version": "556c859d2cd15d17df001aaed4218110d0695b941186120680d1537dc54bcfbc",
+        "signature": "89bcfdc44bdd1be67d2bc94ef7eee5fa36410c81bc21bfc5d5d351cc3133ae00"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts": {
+        "version": "b57e96d0bb35914ff10fce81ac8b3d1320a9ba0e8b3014b678e6f351dd556f3e",
+        "signature": "a4581f73145e2ea578153b7eb7a8067390cd764045c948f18946156a9e3ac91d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts": {
+        "version": "1ab55d46e7c4f40c4dbf755ee68230421cd1d6d40ef681a7ff9b77d8a0e3d58d",
+        "signature": "1ab55d46e7c4f40c4dbf755ee68230421cd1d6d40ef681a7ff9b77d8a0e3d58d"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts": {
+        "version": "c865e6a0263acbd432feab6bc2db274f1ab47c545175c71a55651230e477ff09",
+        "signature": "a53396274152963d85362b32d19781af87e096f81009b2d682402c76a6965d97"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/extensions.ts": {
+        "version": "29fcf5d5304ed3fab65d555c6720fbc2d357aa0d2567a97ca0841f85c384fadf",
+        "signature": "29fcf5d5304ed3fab65d555c6720fbc2d357aa0d2567a97ca0841f85c384fadf"
+      },
+      "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts": {
+        "version": "08f64382c05cee2b1bb752bffbee027371e8dd89ded36a1e27d7364dcbd18d60",
+        "signature": "08f64382c05cee2b1bb752bffbee027371e8dd89ded36a1e27d7364dcbd18d60"
+      },
+      "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts": {
+        "version": "e55f1c61c25cd91672be2f43e74d92a1993bdab2c4fcc1e9f83d79d8eba2c15e",
+        "signature": "e55f1c61c25cd91672be2f43e74d92a1993bdab2c4fcc1e9f83d79d8eba2c15e"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts": {
+        "version": "62ed009714f57e14638e99c16c436e417f1144949e7a972f118815994cac4050",
+        "signature": "62ed009714f57e14638e99c16c436e417f1144949e7a972f118815994cac4050"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.d.ts": {
+        "version": "253f25dd0d53cc61c61a84f5f44ce1b83443efd99e12e18018531fa48942a591",
+        "signature": "253f25dd0d53cc61c61a84f5f44ce1b83443efd99e12e18018531fa48942a591"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/interpolatehtmlplugin.d.ts": {
+        "version": "24b0f55feeea63d16c063dbdbcb04aa9e2d52434202d3385fc8c59e29d7c32f9",
+        "signature": "24b0f55feeea63d16c063dbdbcb04aa9e2d52434202d3385fc8c59e29d7c32f9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/modulescopeplugin.d.ts": {
+        "version": "ac7baae15d2f3a69e649a6ac777211995baa82984fb5e6b0ce80fbfa9b367a30",
+        "signature": "ac7baae15d2f3a69e649a6ac777211995baa82984fb5e6b0ce80fbfa9b367a30"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/watchmissingnodemodulesplugin.d.ts": {
+        "version": "c4ecf6cf29e03d5b9947d634f72561d87a6c16e0081933b759f9eb97c81c305a",
+        "signature": "c4ecf6cf29e03d5b9947d634f72561d87a6c16e0081933b759f9eb97c81c305a"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts": {
+        "version": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633",
+        "signature": "1d1e6bd176eee5970968423d7e215bfd66828b6db8d54d17afec05a831322633"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/copy-webpack-plugin/index.d.ts": {
+        "version": "2d0feea94b3ff13614d4e389925bb0aa3d8dfd1fe4e1e9eecd3107f98327fa0a",
+        "signature": "2d0feea94b3ff13614d4e389925bb0aa3d8dfd1fe4e1e9eecd3107f98327fa0a"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts": {
+        "version": "e3d117831d9d632f1584b011e2f136e427a079ed38a0546eec13c8a2d2f8a757",
+        "signature": "e3d117831d9d632f1584b011e2f136e427a079ed38a0546eec13c8a2d2f8a757"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createallloaders.ts": {
+        "version": "866cff4dbb89045c86611cf61bf93be75e3d523d9362c9abb0044090e537fc17",
+        "signature": "b0d1851075f6251381f748a07017176d32d2f2b59616e4fe004cfc40fdbee431"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/node_modules/is-wsl/index.d.ts": {
+        "version": "db9782841d5eab6e43009d82f64cecf1af9b56a8dad38189de13a962c38318ab",
+        "signature": "db9782841d5eab6e43009d82f64cecf1af9b56a8dad38189de13a962c38318ab"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts": {
+        "version": "0a2e7f15ac6c12b2d1951db26133737e19b9e280d3fe92c07c22d567a6f7e1b7",
+        "signature": "0a2e7f15ac6c12b2d1951db26133737e19b9e280d3fe92c07c22d567a6f7e1b7"
+      },
+      "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts": {
+        "version": "50a6a7d29392b6b9111a4e99c47345b0f631992d05909f3adf983617a3ece1c1",
+        "signature": "50a6a7d29392b6b9111a4e99c47345b0f631992d05909f3adf983617a3ece1c1"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/terser-webpack-plugin/index.d.ts": {
+        "version": "ef21cd8e4938f22f711f5c373a5fbb34b87ef199c19ca7c1193b2b795b2328e3",
+        "signature": "ef21cd8e4938f22f711f5c373a5fbb34b87ef199c19ca7c1193b2b795b2328e3"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withoptimizations.ts": {
+        "version": "13106d23cb633ce2d8b0336f2e231f60ea3c5b5dd18bef44bf43e1852956e0fd",
+        "signature": "ec495c0cf437f514cabbc5568d35dd6120c55ccbe87e0921f559ac6b2a5fe60d"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts": {
+        "version": "6caabd75633877fb19c3f1999a206ef84240747910eb66369cd3ef9180113468",
+        "signature": "6caabd75633877fb19c3f1999a206ef84240747910eb66369cd3ef9180113468"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withreporting.ts": {
+        "version": "dd977a895eb7292d297bbb497bceed6ed1b4e40fe0ec2080dc94219e144ba976",
+        "signature": "dfc5ec89557876959b5fe6a63d8ba9e639cfac8eeef5cc25226e470865a1be3e"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withcompression.ts": {
+        "version": "1fce8aa6fa2897dabca85fe8fc8c12344ea82da483609e5166acf51b11a41886",
+        "signature": "04ed6b4aab23775a0d318bc61e2f3a3c9f9fed7012fb4232ff01efa8c2c655ae"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.ts": {
+        "version": "a7bb5bcd89b9bdfd1d62c3fb28a37aac7a2a89ee58aacd930135b52515f0e882",
+        "signature": "f1b4a742aaf5b98dce290ac035ac7a844185494dfca6a60dc307b36387bfcabd"
+      },
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/index.ts": {
+        "version": "1244a86617e3e6a08ce2e408d2717e303328caee89def382ae54eb3bcd3d6f62",
+        "signature": "7ecfb23ff1e897e32dc7511adcfde7403a521f88303b360b37a0f8f3f56e15ce"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/decache/index.d.ts": {
+        "version": "0c58911528ad046296faa53b9932c25687b8380e4e7f46039e0c4d81edc33c61",
+        "signature": "0c58911528ad046296faa53b9932c25687b8380e4e7f46039e0c4d81edc33c61"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/exec-async/index.d.ts": {
+        "version": "3b36d7def17942cf71bf00aa2939b826118caddfacb5f8e9ac1f853876fba61d",
+        "signature": "3b36d7def17942cf71bf00aa2939b826118caddfacb5f8e9ac1f853876fba61d"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__bunyan/index.d.ts": {
+        "version": "9d7459cfae112da3440c5e6fb85fc0c0cd388c4121209f2b7711beb575040776",
+        "signature": "9d7459cfae112da3440c5e6fb85fc0c0cd388c4121209f2b7711beb575040776"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__ngrok/index.d.ts": {
+        "version": "92472291fdcb0e461670b23e2b90f1f4915d44857d09fa061d4c66b3fbeb4356",
+        "signature": "92472291fdcb0e461670b23e2b90f1f4915d44857d09fa061d4c66b3fbeb4356"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__simple-spinner/index.d.ts": {
+        "version": "a6f35a221a732b60225cd8842a5033091a7c24ea7143f43f216f2b321f7d9ced",
+        "signature": "a6f35a221a732b60225cd8842a5033091a7c24ea7143f43f216f2b321f7d9ced"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/freeport-async/index.d.ts": {
+        "version": "242662d8b4846116791a75fd682941c4585bf8a6fad6001bb116cb085218eab6",
+        "signature": "242662d8b4846116791a75fd682941c4585bf8a6fad6001bb116cb085218eab6"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/hasbin/index.d.ts": {
+        "version": "bb7d535dd38a427f3a9b38078dc733516e2f3df258078d3ce969f8dce0f58872",
+        "signature": "bb7d535dd38a427f3a9b38078dc733516e2f3df258078d3ce969f8dce0f58872"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/json-schema-traverse/index.d.ts": {
+        "version": "79aae72adf9b4bf167fb5ceb7f90da570dc6b57527a7442e1276baf16f038c41",
+        "signature": "79aae72adf9b4bf167fb5ceb7f90da570dc6b57527a7442e1276baf16f038c41"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/md5hex/index.d.ts": {
+        "version": "a7689e770ff3b9a93d599e705a7085d18227d2ba3b5060f87935a21dcb4dc1e9",
+        "signature": "a7689e770ff3b9a93d599e705a7085d18227d2ba3b5060f87935a21dcb4dc1e9"
+      },
+      "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts": {
+        "version": "157ae6e8039ab48b0f9273df548438dbc08afcd6462272dae4579c212af80f7e",
+        "signature": "157ae6e8039ab48b0f9273df548438dbc08afcd6462272dae4579c212af80f7e"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/pacote/index.d.ts": {
+        "version": "89b9e7a19ab1979cee93dd080ca3ff23ce18991c82207ffa916ce8b7d1ab845f",
+        "signature": "89b9e7a19ab1979cee93dd080ca3ff23ce18991c82207ffa916ce8b7d1ab845f"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/probe-image-size/index.d.ts": {
+        "version": "70db806cb65250c06bee4bee898baa4761ba56560d8942bba9ae753c211c5291",
+        "signature": "70db806cb65250c06bee4bee898baa4761ba56560d8942bba9ae753c211c5291"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/qrcode-terminal/index.d.ts": {
+        "version": "93711805aab594d82f09765965c5339c1f66b0541f5fd29a8657db2e408444c3",
+        "signature": "93711805aab594d82f09765965c5339c1f66b0541f5fd29a8657db2e408444c3"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/read-last-lines/index.d.ts": {
+        "version": "40d423c3edcbbea71d6536bd4efa5a0a33fa182d60d328ca2a2889193fcc9691",
+        "signature": "40d423c3edcbbea71d6536bd4efa5a0a33fa182d60d328ca2a2889193fcc9691"
+      },
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/slugid/index.d.ts": {
+        "version": "6e1da4c4e08750fa96bf2d29ba452b35dfa88c1db48f8fea97beeef4f4cf8a38",
+        "signature": "6e1da4c4e08750fa96bf2d29ba452b35dfa88c1db48f8fea97beeef4f4cf8a38"
+      }
+    },
+    "options": {
+      "declaration": true,
+      "composite": true,
+      "esModuleInterop": true,
+      "inlineSources": true,
+      "lib": [
+        "lib.es2016.d.ts"
+      ],
+      "module": 1,
+      "moduleResolution": 2,
+      "noImplicitReturns": true,
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "strict": true,
+      "target": 3,
+      "typeRoots": [
+        "/Users/viven/Projects/expo-cli/packages/babel-preset-cli/ts-declarations",
+        "/Users/viven/Projects/expo-cli/packages/babel-preset-cli/node_modules/@types"
+      ],
+      "outDir": "/Users/viven/Projects/expo-cli/packages/webpack-config/webpack",
+      "rootDir": "/Users/viven/Projects/expo-cli/packages/webpack-config/src",
+      "watch": true,
+      "configFilePath": "/Users/viven/Projects/expo-cli/packages/webpack-config/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/config.d.ts": [
+        "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/events/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createclientenvironment.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/erroroverlaymiddleware.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/noopserviceworkermiddleware.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/find-yarn-workspace-root/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/find-yarn-workspace-root/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createdevserverconfigasync.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/erroroverlaymiddleware.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/noopserviceworkermiddleware.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-merge/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/deep-diff/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/deep-diff/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/yup/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts": [
+        "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/yup/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/createclientenvironment.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/progress/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts": [
+        "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/progress/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/extensions.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/normalizepaths.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/extensions.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/normalizepaths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.unimodules.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-merge/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.unimodules.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/extensions.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts": [
+        "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts": [
+        "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.d.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/interpolatehtmlplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/modulescopeplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/watchmissingnodemodulesplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/copy-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createallloaders.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/node_modules/is-wsl/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/terser-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withoptimizations.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/node_modules/is-wsl/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/terser-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withreporting.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withcompression.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/interpolatehtmlplugin.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/modulescopeplugin.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/watchmissingnodemodulesplugin.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/copy-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createallloaders.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withoptimizations.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withreporting.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withcompression.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/createdevserverconfigasync.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/index.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/decache/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/exec-async/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__bunyan/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__ngrok/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__simple-spinner/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/freeport-async/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/hasbin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/json-schema-traverse/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/md5hex/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/pacote/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/probe-image-size/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/qrcode-terminal/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/read-last-lines/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/slugid/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/config/build/config.d.ts": [
+        "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/events/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createclientenvironment.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/erroroverlaymiddleware.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/noopserviceworkermiddleware.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/find-yarn-workspace-root/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createdevserverconfigasync.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-merge/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/deep-diff/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/yup/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/progress/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/extensions.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/normalizepaths.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.unimodules.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/extensions.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts": [
+        "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts": [
+        "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.d.ts": [
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/interpolatehtmlplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/modulescopeplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/watchmissingnodemodulesplugin.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/copy-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createallloaders.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/node_modules/is-wsl/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/terser-webpack-plugin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withoptimizations.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withreporting.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withcompression.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/packages/config/build/config.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/index.ts": [
+        "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/decache/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/exec-async/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__bunyan/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__ngrok/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__simple-spinner/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/freeport-async/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/hasbin/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/json-schema-traverse/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/md5hex/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/pacote/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/probe-image-size/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/qrcode-terminal/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/read-last-lines/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/slugid/index.d.ts": [
+        "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+        "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/users/viven/projects/expo-cli/packages/json-file/build/jsonfile.d.ts",
+      "/users/viven/projects/expo-cli/packages/config/build/config.types.d.ts",
+      "/users/viven/projects/expo-cli/packages/config/build/modules.d.ts",
+      "/users/viven/projects/expo-cli/packages/config/build/config.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/globals.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/assert.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/async_hooks.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/buffer.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/events/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/child_process.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/cluster.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/console.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/constants.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/crypto.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dgram.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/dns.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/domain.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/events.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/fs.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/http2.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/https.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/inspector.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/module.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/net.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/os.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/path.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/perf_hooks.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/process.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/punycode.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/querystring.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/readline.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/repl.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/stream.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/string_decoder.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/timers.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tls.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/trace_events.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/tty.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/url.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/util.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/v8.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/vm.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/worker_threads.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/zlib.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/base.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/util.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/tapable/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/source-map/source-map.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/uglify-js/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/anymatch/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/connect/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/http-proxy-middleware/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/range-parser/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/express-serve-static-core/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/mime/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/serve-static/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/body-parser/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/express/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/connect-history-api-fallback/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-dev-server/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/types.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createclientenvironment.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/erroroverlaymiddleware.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/noopserviceworkermiddleware.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/find-yarn-workspace-root/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getmode.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/paths.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/createdevserverconfigasync.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-merge/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/chalk/types/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/deep-diff/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/diagnosis.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/yup/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/getconfig.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/config.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/validate.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/loaders.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-manifest-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/fs-extra/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@babel/types/lib/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__generator/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/node_modules/@babel/types/lib/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__traverse/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__template/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/babel__core/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createbabelloader.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createfontloader.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expodefineplugin.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/progress/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expoprogressbarplugin.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/clean-css/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/relateurl/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/html-minifier/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/html-webpack-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/extensions.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/normalizepaths.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/utils/index.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/expohtmlwebpackplugin.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/plugins/index.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.unimodules.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withunimodules.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/workbox-webpack-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withworkbox.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/extensions.ts",
+      "/users/viven/projects/expo-cli/packages/image-utils/build/sharp.d.ts",
+      "/users/viven/projects/expo-cli/packages/image-utils/build/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.types.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-pwa-manifest-plugin/build/webpackpwamanifestplugin.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/interpolatehtmlplugin.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/modulescopeplugin.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/react-dev-utils/watchmissingnodemodulesplugin.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/minimatch/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/copy-webpack-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/getenv/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/loaders/createallloaders.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/node_modules/is-wsl/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/optimize-css-assets-webpack-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/terser/tools/terser.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/terser-webpack-plugin/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withoptimizations.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/webpack-bundle-analyzer/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withreporting.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/withcompression.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/webpack.config.ts",
+      "/users/viven/projects/expo-cli/packages/webpack-config/src/index.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/decache/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/exec-async/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__bunyan/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__ngrok/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/expo__simple-spinner/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/freeport-async/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/hasbin/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/json-schema-traverse/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/md5hex/index.d.ts",
+      "/users/viven/projects/expo-cli/node_modules/@types/npm-package-arg/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/pacote/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/probe-image-size/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/qrcode-terminal/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/read-last-lines/index.d.ts",
+      "/users/viven/projects/expo-cli/packages/babel-preset-cli/ts-declarations/slugid/index.d.ts"
+    ]
+  },
+  "version": "3.4.5"
+}

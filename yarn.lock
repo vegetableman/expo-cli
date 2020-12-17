@@ -1214,7 +1214,7 @@
   integrity sha512-J2tEBOsDiSScUnERFVSiUkfdsJQdtrrl8kHV9dQ3+vlbA7BUIeWZDN/tYKvQ1camY3FlO39rU8WdJvjyNeffJw==
   dependencies:
     "@expo/bunyan" "3.0.2"
-    "@expo/config" "^2.0.1"
+    "@expo/config" "2.0.2"
     "@expo/json-file" "8.1.4"
     "@expo/ngrok" "2.4.3"
     "@expo/osascript" "2.0.0"
