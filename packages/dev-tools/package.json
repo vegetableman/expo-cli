@@ -20,7 +20,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "@expo/config": "^2.3.0",
+    "@expo/config": "2.3.0",
     "base64url": "3.0.1",
     "express": "4.16.4",
     "freeport-async": "2.0.0",

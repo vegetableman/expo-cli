@@ -36,7 +36,7 @@
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/runtime": "^7.3.4",
-    "@expo/config": "^2.3.0",
+    "@expo/config": "2.3.0",
     "@expo/webpack-pwa-manifest-plugin": "^1.2.8",
     "@types/yup": "^0.26.24",
     "babel-loader": "8.0.6",
